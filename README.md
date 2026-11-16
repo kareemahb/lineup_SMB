@@ -2,7 +2,6 @@
  
 A one-page marketing site for **Lineup**, a concept SaaS product that lets walk-in businesses like barbershops, delis, and water ice stands run their waitlist by text. Customers text to join the line, see their spot, and get a text when they're up, so nobody has to crowd the waiting bench.
  
-Built with plain HTML and CSS as part of my small business website series.
  
 🔗 **Live Site:** [lineupsmb.netlify.app](https://lineupsmb.netlify.app/)
 
